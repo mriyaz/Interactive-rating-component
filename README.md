@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mriyaz/Interactive-rating-component)
-- Live Site URL: [Add live site URL here](hhttps://mriyaz.github.io/Interactive-rating-component/)
+- [Solution URL](https://github.com/mriyaz/Interactive-rating-component)
+- [Live Site URL](https://mriyaz.github.io/Interactive-rating-component/)
 
 ## My process
 
